@@ -5,5 +5,5 @@ This project is in Alpha.
 
 <div>
   <img src="https://github.com/user-attachments/assets/964ab85f-2f2b-4ede-8307-9b41249af822" width="540">
-  <img src="https://github.com/user-attachments/assets/926f39b9-b1e8-44aa-9863-fc67fe48afac">
+  <img src="https://github.com/user-attachments/assets/926f39b9-b1e8-44aa-9863-fc67fe48afac" width="240">
 </div>
